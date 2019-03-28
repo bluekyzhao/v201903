@@ -10,11 +10,11 @@
 
 2. 创建python虚拟环境 `pipenv shell`
 
-   ![](C:\Users\ocstar\Desktop\all\pictures\图像 001.png)
+   ![](.\pictures\图像 001.png)
 
    虚拟环境创建成功是这种效果：
 
-   ![](C:\Users\ocstar\Desktop\all\pictures\图像 002.png)
+   ![](.\pictures\图像 002.png)
 
 3. 安装依赖：执行下面的命令
 
