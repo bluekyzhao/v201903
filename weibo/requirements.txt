@@ -1,0 +1,11 @@
+selenium
+redis
+pillow
+APScheduler
+werkzeug
+Flask
+requests
+lxml
+pymongo
+scrapy
+pypiwin32
