@@ -7,7 +7,7 @@ from weibosearch.items import WeibosearchItem
 class WeiboSpider(scrapy.Spider):
     name = 'weibo'
     allowed_domains = ['weibo.cn']
-    start_urls = ['http://weibo.cn/']
+    # start_urls = ['http://weibo.cn/']
 
     search_url = 'https://weibo.cn/search/mblog'
     max_page = 200
